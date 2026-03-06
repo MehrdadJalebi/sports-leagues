@@ -1,5 +1,12 @@
 # Sports Leagues SPA
 
+## Live Demo
+
+You can view the live demo here:  
+**https://sports-leagues-assignment.vercel.app/**
+
+---
+
 ## Overview
 
 A small **Vue 3 Single Page Application** that displays sports leagues
